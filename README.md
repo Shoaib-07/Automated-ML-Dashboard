@@ -1,6 +1,6 @@
-###🤖 AutoML Dashboard Pro
+🤖 AutoML Dashboard Pro
 
-#🚀 Overview
+# 🚀 Overview
 
 AutoML Dashboard Pro is a no-code machine learning solution that automates the entire ML pipeline. Upload your data and get model predictions, comparisons, and reports in minutes—no coding required!
 
