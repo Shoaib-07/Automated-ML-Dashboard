@@ -1,10 +1,11 @@
-🤖 AutoML Dashboard Pro
+# 🤖 AutoML Dashboard Pro
 
-# 🚀 Overview
+## 🚀 Overview
 
 AutoML Dashboard Pro is a no-code machine learning solution that automates the entire ML pipeline. Upload your data and get model predictions, comparisons, and reports in minutes—no coding required!
 
-✨ Key Features
+
+## ✨ Key Features
 
 📁 Data Upload: Support for CSV, Excel, JSON, and Parquet files
 
@@ -22,7 +23,8 @@ AutoML Dashboard Pro is a no-code machine learning solution that automates the e
 
 💾 Model Export: Download trained models for deployment
 
-🤖 Model Catalog
+
+## 🤖 Model Catalog
 
 Traditional ML: Linear/Ridge/Lasso Regression, Logistic Regression, SVM, Decision Trees, Random Forest, Gradient Boosting, KNN, Naive Bayes
 
@@ -30,9 +32,10 @@ Advanced Ensemble: XGBoost, LightGBM, CatBoost, AdaBoost, Stacking, Voting Class
 
 Deep Learning: ANN, CNN, RNN, LSTM, GRU, Autoencoders
 
-🚀 Quick Start
 
-Installation
+## 🚀 Quick Start
+
+### Installation
 
 bash
 
@@ -44,7 +47,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-Usage
+### Usage
 
 Upload your dataset (CSV/Excel)
 
@@ -54,9 +57,10 @@ Click "Start Training"
 
 Explore results and download models
 
-🌐 Deployment
 
-Streamlit Cloud (Free)
+## 🌐 Deployment
+
+### Streamlit Cloud (Free)
 
 Push code to GitHub
 
@@ -64,7 +68,7 @@ Visit share.streamlit.io
 
 Connect repository and deploy
 
-Docker
+### Docker
 
 bash
 
@@ -72,7 +76,8 @@ docker build -t automl-dashboard
 
 docker run -p 8501:8501 automl-dashboard
 
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 Frontend: Streamlit, Plotly
 
@@ -82,7 +87,8 @@ Deep Learning: TensorFlow, PyTorch
 
 Data Processing: Pandas, NumPy
 
-🤝 Contributing
+
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -96,10 +102,12 @@ Push to branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-🙏 Acknowledgments
+
+## 🙏 Acknowledgments
 
 Streamlit for the amazing framework
 
 Scikit-learn, TensorFlow, and PyTorch communities
+
 
 <p align="center"> Made with Md Shoaib Ali ❤️ <br> ⭐ Star us on GitHub if you find this useful! </p>
