@@ -1,8 +1,10 @@
 # 🤖 AutoML Dashboard Pro
 
+
 ## 🚀 Overview
 
 AutoML Dashboard Pro is a no-code machine learning solution that automates the entire ML pipeline. Upload your data and get model predictions, comparisons, and reports in minutes—no coding required!
+
 
 
 ## ✨ Key Features
@@ -24,6 +26,7 @@ AutoML Dashboard Pro is a no-code machine learning solution that automates the e
 💾 Model Export: Download trained models for deployment
 
 
+
 ## 🤖 Model Catalog
 
 Traditional ML: Linear/Ridge/Lasso Regression, Logistic Regression, SVM, Decision Trees, Random Forest, Gradient Boosting, KNN, Naive Bayes
@@ -33,7 +36,9 @@ Advanced Ensemble: XGBoost, LightGBM, CatBoost, AdaBoost, Stacking, Voting Class
 Deep Learning: ANN, CNN, RNN, LSTM, GRU, Autoencoders
 
 
+
 ## 🚀 Quick Start
+
 
 ### Installation
 
@@ -47,6 +52,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+
 ### Usage
 
 Upload your dataset (CSV/Excel)
@@ -58,7 +64,9 @@ Click "Start Training"
 Explore results and download models
 
 
+
 ## 🌐 Deployment
+
 
 ### Streamlit Cloud (Free)
 
@@ -68,6 +76,7 @@ Visit share.streamlit.io
 
 Connect repository and deploy
 
+
 ### Docker
 
 bash
@@ -75,6 +84,7 @@ bash
 docker build -t automl-dashboard
 
 docker run -p 8501:8501 automl-dashboard
+
 
 
 ## 🛠️ Tech Stack
@@ -86,6 +96,7 @@ ML: Scikit-learn, XGBoost, LightGBM, CatBoost
 Deep Learning: TensorFlow, PyTorch
 
 Data Processing: Pandas, NumPy
+
 
 
 ## 🤝 Contributing
@@ -103,11 +114,13 @@ Push to branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 
+
 ## 🙏 Acknowledgments
 
 Streamlit for the amazing framework
 
 Scikit-learn, TensorFlow, and PyTorch communities
+
 
 
 <p align="center"> Made with Md Shoaib Ali ❤️ <br> ⭐ Star us on GitHub if you find this useful! </p>
