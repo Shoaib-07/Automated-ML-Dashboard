@@ -1,9 +1,11 @@
 🤖 AutoML Dashboard Pro
 
 🚀 Overview
+
 AutoML Dashboard Pro is a no-code machine learning solution that automates the entire ML pipeline. Upload your data and get model predictions, comparisons, and reports in minutes—no coding required!
 
 ✨ Key Features
+
 📁 Data Upload: Support for CSV, Excel, JSON, and Parquet files
 🤖 35+ ML Models: From traditional to deep learning algorithms
 ⚡ Auto-Configuration: Automatic data preprocessing and model selection
@@ -14,11 +16,13 @@ AutoML Dashboard Pro is a no-code machine learning solution that automates the e
 💾 Model Export: Download trained models for deployment
 
 🤖 Model Catalog
+
 Traditional ML: Linear/Ridge/Lasso Regression, Logistic Regression, SVM, Decision Trees, Random Forest, Gradient Boosting, KNN, Naive Bayes
 Advanced Ensemble: XGBoost, LightGBM, CatBoost, AdaBoost, Stacking, Voting Classifiers
 Deep Learning: ANN, CNN, RNN, LSTM, GRU, Autoencoders
 
 🚀 Quick Start
+
 Installation
 bash
 git clone https://github.com/yourusername/automl-dashboard-pro.git
@@ -33,6 +37,7 @@ Click "Start Training"
 Explore results and download models
 
 🌐 Deployment
+
 Streamlit Cloud (Free)
 Push code to GitHub
 Visit share.streamlit.io
